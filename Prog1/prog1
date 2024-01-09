@@ -1,0 +1,11 @@
+Programme de tableau d'incrémentation 
+
+Dans ce programme j'ai un tableau de 7 cases, qui sont initialisé à 0.
+Le tableau passera dans la boucle for, ce qui va faire que chaque case du tableau aura un chiffre plus grand que sont précédant 
+
+Exemple : 
+
+
+tableau[7] = {0, 0, 0, 0, 0, 0, 0}; // tableau initialisé 
+
+tableau[7] = {1, 2, 3, 4, 5, 6, 7}; // résultat finale
