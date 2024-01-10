@@ -1,0 +1,7 @@
+Programme de calcule de nombre de ligne 
+
+Dans ce programme, j'ai crée une fonctions dans le quel un fichier sous le nom de "couleur" est lu, on compte le nombre de ligne ("\n") ou saut de ligne, et il permet de compter le nombre de mot que le fichier contient sachant que sur chaque ligne il y'a un mot.
+
+Dans la boucle do{...}while(**) le variable "nbrDeMots" est égale au chaque lettre du fichier lu "nbrDeMots = fgetc(fichier)" et si pendant la boucle la variable nbrDeMots est égale à "\n" alors on incrémente le variable "nbrSauts" jusqu'à ce que le variable "nbrDeMots" soit égale au "EOF" (fin de fichier)
+
+
