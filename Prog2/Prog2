@@ -1,0 +1,10 @@
+Programme de calcule de texte saisit 
+
+Dans ce programme, je demande a l'utilisateur de saisir un texte, une fois saisit, le texte est envoyé dans une fonction qui va permettre de calculer le nombre de caractères qu'il contient avec la boucle "for" 
+
+Dans la boucle "for", tant que le text n'a pas atteint la caractère '\0' il incrémente une valeur a une variable qui se trouve entre les accolades de la boucle
+
+Exemple :
+
+%Bonjour
+%7
