@@ -1,0 +1,11 @@
+Calculateur de Moyenne
+
+
+Le programme demande à l'utilisateur de saisir une note.
+L'utilisateur entre une note (entier ou décimal). (l'allocation dynamique avec malloc) 
+Le programme ajoute cette note à une somme totale.
+Le programme demande si l'utilisateur souhaite entrer une autre note ou quitter.
+Si l'utilisateur souhaite entrer une autre note, le programme revient à l'étape 2.
+Si l'utilisateur souhaite quitter, le programme calcule la moyenne en divisant la somme totale par le nombre de notes saisies et affiche la moyenne.
+
+
