@@ -1,0 +1,21 @@
+Exercice : Calculatrice Simple
+
+Un programme en langage C qui fonctionne comme une calculatrice simple. Le programme devrait demander à l'utilisateur de saisir deux nombres et un opérateur (+, -, *, /). Ensuite, il devrait effectuer l'opération correspondante sur les deux nombres et afficher le résultat.
+
+Voici comment cela pourrait être structuré :
+
+Le programme demande à l'utilisateur de saisir le premier nombre.
+L'utilisateur entre le premier nombre.
+Le programme demande à l'utilisateur de saisir un opérateur (+, -, *, /).
+L'utilisateur entre l'opérateur.
+Le programme demande à l'utilisateur de saisir le deuxième nombre.
+L'utilisateur entre le deuxième nombre.
+Le programme effectue l'opération correspondante en fonction de l'opérateur et affiche le résultat.
+
+Gestion des erreurs : Votre programme signale une "Erreur de saisie d'opérateur" en cas de saisie incorrecte de l'opérateur. 
+Il serait utile d'ajouter un message explicatif pour indiquer à l'utilisateur quelle opération est incorrecte.
+
+Division par zéro : le programme permet d'éviter la division par zéro grâce un sécurité de if()
+
+Sortie : Vous pourriez envisager d'ajouter un mécanisme pour permettre à l'utilisateur de continuer à effectuer des calculs ou de quitter le programme après chaque opération.
+
