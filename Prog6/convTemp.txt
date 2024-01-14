@@ -1,0 +1,15 @@
+Exercice : Conversion de Température
+
+Le programme en langage C qui convertit la température de degrés Celsius (°C) en degrés Fahrenheit (°F) ou vice versa en fonction de la demande de l'utilisateur.
+ Voici les étapes :
+
+Le programme demande à l'utilisateur de choisir entre la conversion de °C en °F ou de °F en °C.
+L'utilisateur entre le choix (par exemple, 1 pour °C en °F ou 2 pour °F en °C).
+Ensuite, l'utilisateur entre la température à convertir.
+Le programme effectue la conversion en utilisant les formules appropriées.
+Le résultat est affiché.
+Voici les formules de conversion :
+
+Pour convertir de °C en °F : °F = (°C * 9/5) + 32
+Pour convertir de °F en °C : °C = (°F - 32) * 5/9
+
