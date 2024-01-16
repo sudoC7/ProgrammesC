@@ -1,0 +1,20 @@
+Exercice : Factorielle
+
+C'est un programme en langage C qui calcule la factorielle d'un nombre entier positif saisi par l'utilisateur. 
+La factorielle d'un nombre n (notée n!) est le produit de tous les entiers positifs de 1 à n.
+
+Voici comment cela pourrait être structuré :
+
+-Le programme demande à l'utilisateur de saisir un nombre entier positif.
+
+-L'utilisateur entre le nombre.
+
+-Le programme vérifie si le nombre est positif. S'il ne l'est pas, il affiche un message d'erreur et demande à l'utilisateur de saisir à nouveau le nombre.
+
+-Une fois que l'utilisateur a saisi un nombre valide, le programme calcule la factorielle de ce nombre et l'affiche.
+
+-La formule pour calculer la factorielle est la suivante :
+
+n! = 1 * 2 * 3 * ... * (n-1) * n
+
+
