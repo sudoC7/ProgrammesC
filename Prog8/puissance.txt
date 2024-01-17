@@ -1,0 +1,17 @@
+**Exercice : Calcul de Puissance**
+
+C'est un programme en langage C qui calcule la puissance d'un nombre entier positif `x` élevé à une puissance `n`. Vous pouvez demander à l'utilisateur de saisir la valeur de `x` et `n`, puis calculer et afficher `x` élevé à la puissance `n`.
+
+Voici comment cela pourrait être structuré :
+
+1. Le programme demande à l'utilisateur de saisir la valeur de `x` (entier positif).
+2. L'utilisateur entre la valeur de `x`.
+3. Le programme vérifie si `x` est positif. S'il ne l'est pas, il affiche un message d'erreur et demande à l'utilisateur de saisir à nouveau `x`.
+4. Le programme demande à l'utilisateur de saisir la valeur de `n` (entier positif ou nul).
+5. L'utilisateur entre la valeur de `n`.
+6. Le programme calcule `x` élevé à la puissance `n` et affiche le résultat.
+
+La formule pour calculer `x` élevé à la puissance `n` est la suivante :
+```
+x^n = x * x * x * ... * x (n fois)
+```
