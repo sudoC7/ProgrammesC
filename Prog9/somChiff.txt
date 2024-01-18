@@ -1,0 +1,12 @@
+**Exercice : Calcul de la Somme de Chiffres**
+
+C'est un programme en langage C qui calcule la somme des chiffres d'un nombre entier positif saisi par l'utilisateur. 
+Par exemple, si l'utilisateur saisit 12345, le programme devrait calculer la somme 1 + 2 + 3 + 4 + 5 = 15 et l'afficher.
+
+Voici comment cela pourrait être structuré :
+
+1. Le programme demande à l'utilisateur de saisir un nombre entier positif.
+2. L'utilisateur entre le nombre.
+3. Le programme vérifie si le nombre est positif. S'il ne l'est pas, il affiche un message d'erreur et demande à l'utilisateur de saisir à nouveau le nombre.
+4. Le programme calcule la somme des chiffres en extrayant chaque chiffre du nombre, en les additionnant et en les affichant.
+
