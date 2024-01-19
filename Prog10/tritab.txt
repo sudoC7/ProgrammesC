@@ -1,0 +1,19 @@
+
+Exercice : Tri de Tableau
+
+C'est un programme en langage C qui trie un tableau d'entiers en ordre croissant. Voici comment cela pourrait être structuré :
+
+-Le programme demande à l'utilisateur de saisir la taille du tableau (un entier positif).
+
+-L'utilisateur entre la taille du tableau.
+
+-Le programme vérifie si la taille est positive. 
+S'il ne l'est pas, il affiche un message d'erreur et demande à l'utilisateur de saisir à nouveau la taille.
+
+-Le programme demande ensuite à l'utilisateur de saisir les éléments du tableau (entiers).
+
+-Le programme trie les éléments du tableau en ordre croissant en utilisant un algorithme de tri 
+(par exemple, le tri à bulles, le tri par insertion ou le tri rapide).
+
+-Enfin, le programme affiche le tableau trié.
+
