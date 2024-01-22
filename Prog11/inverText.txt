@@ -1,0 +1,15 @@
+
+Inversion de Chaîne de Caractères
+
+C'est un programme en langage C qui prend une chaîne de caractères (string) en entrée depuis l'utilisateur et inverse cette chaîne. Par exemple, si l'utilisateur saisit "Bonjour", le programme doit afficher "ruojnoB".
+
+Voici comment l'exercice est structuré :
+
+Le programme demande à l'utilisateur de saisir une chaîne de caractères (string).
+L'utilisateur entre la chaîne de caractères.
+Le programme calcule la longueur de la chaîne de caractères.
+Le programme inverse la chaîne en échangeant le premier caractère avec le dernier, le deuxième avec l'avant-dernier, et ainsi de suite, jusqu'à ce que toute la chaîne soit inversée.
+Le programme affiche la chaîne inversée.
+Cet exercice vous permettra de pratiquer la manipulation de chaînes de caractères en C, y compris le calcul de longueur de chaîne, la boucle pour inverser les caractères et l'affichage du résultat.
+C'est une compétence utile à avoir lorsque vous travaillez avec des données textuelles. Bonne pratique !
+
