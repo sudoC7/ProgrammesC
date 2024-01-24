@@ -1,0 +1,14 @@
+Recherche d'un nombre dans un Tableau
+
+C'est un programme en langage C qui recherche un élément donné dans un tableau d'entiers. Voici comment cela pourrait être structuré :
+
+-Le programme demande à l'utilisateur de saisir la taille du tableau (un entier positif).
+-L'utilisateur entre la taille du tableau.
+-Le programme demande à l'utilisateur de saisir les éléments du tableau.
+-Le programme demande à l'utilisateur de saisir l'élément qu'il souhaite rechercher.
+-Le programme recherche cet élément dans le tableau et indique si l'élément a été trouvé ou non.
+
+Pour cet exercice, j'ai utilisé un tableau pour stocker les éléments. 
+J'ai du également écrire une fonction de recherche qui parcourt le tableau pour trouver l'élément recherché. 
+C'est un bon exercice pour pratiquer la manipulation de tableaux et l'écriture de fonctions de recherche.
+
