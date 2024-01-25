@@ -1,0 +1,11 @@
+Vérification de Palindrome
+
+Est un programme en langage C qui vérifie si une chaîne de caractères donnée est un palindrome ou non. 
+Un palindrome est une chaîne qui se lit de la même manière de gauche à droite et de droite à gauche.
+
+Voici comment cela pourrait être structuré :
+
+-Le programme demande à l'utilisateur de saisir une chaîne de caractères.
+-Le programme vérifie si la chaîne est un palindrome.
+-Le programme affiche un message indiquant si la chaîne est un palindrome ou non.
+Par exemple, si l'utilisateur saisit "radar", le programme devrait indiquer que c'est un palindrome car il se lit de la même manière de gauche à droite et de droite à gauche.
